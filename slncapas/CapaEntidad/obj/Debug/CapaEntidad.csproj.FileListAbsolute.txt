@@ -1,0 +1,6 @@
+D:\LENG-SEM3\slncapas\CapaEntidad\bin\Debug\CapaEntidad.dll
+D:\LENG-SEM3\slncapas\CapaEntidad\bin\Debug\CapaEntidad.pdb
+D:\LENG-SEM3\slncapas\CapaEntidad\obj\Debug\CapaEntidad.csprojResolveAssemblyReference.cache
+D:\LENG-SEM3\slncapas\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+D:\LENG-SEM3\slncapas\CapaEntidad\obj\Debug\CapaEntidad.dll
+D:\LENG-SEM3\slncapas\CapaEntidad\obj\Debug\CapaEntidad.pdb

@@ -1,0 +1,13 @@
+D:\LENG-SEM3\slnVentasProducto\pryGUI\bin\Debug\pryGUI.exe.config
+D:\LENG-SEM3\slnVentasProducto\pryGUI\bin\Debug\pryGUI.exe
+D:\LENG-SEM3\slnVentasProducto\pryGUI\bin\Debug\pryGUI.pdb
+D:\LENG-SEM3\slnVentasProducto\pryGUI\obj\Debug\pryGUI.csprojResolveAssemblyReference.cache
+D:\LENG-SEM3\slnVentasProducto\pryGUI\obj\Debug\pryGUI.Properties.Resources.resources
+D:\LENG-SEM3\slnVentasProducto\pryGUI\obj\Debug\pryGUI.csproj.GenerateResource.Cache
+D:\LENG-SEM3\slnVentasProducto\pryGUI\obj\Debug\pryGUI.csproj.CoreCompileInputs.cache
+D:\LENG-SEM3\slnVentasProducto\pryGUI\obj\Debug\pryGUI.exe
+D:\LENG-SEM3\slnVentasProducto\pryGUI\obj\Debug\pryGUI.pdb
+D:\LENG-SEM3\slnVentasProducto\pryGUI\obj\Debug\pryGUI.frmproducto.resources
+D:\LENG-SEM3\slnVentasProducto\pryGUI\bin\Debug\MisClases.dll
+D:\LENG-SEM3\slnVentasProducto\pryGUI\bin\Debug\MisClases.pdb
+D:\LENG-SEM3\slnVentasProducto\pryGUI\obj\Debug\pryGUI.frmProductov2.resources

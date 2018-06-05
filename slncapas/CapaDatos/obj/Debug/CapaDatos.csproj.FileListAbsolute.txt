@@ -1,0 +1,16 @@
+D:\LENG-SEM3\slncapas\CapaDatos\bin\Debug\CapaDatos.dll
+D:\LENG-SEM3\slncapas\CapaDatos\bin\Debug\CapaDatos.pdb
+D:\LENG-SEM3\slncapas\CapaDatos\bin\Debug\CapaEntidad.dll
+D:\LENG-SEM3\slncapas\CapaDatos\bin\Debug\CapaEntidad.pdb
+D:\LENG-SEM3\slncapas\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+D:\LENG-SEM3\slncapas\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+D:\LENG-SEM3\slncapas\CapaDatos\obj\Debug\CapaDatos.dll
+D:\LENG-SEM3\slncapas\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\Alumno\Documents\csharp\slncapas\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Alumno\Documents\csharp\slncapas\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Alumno\Documents\csharp\slncapas\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\Users\Alumno\Documents\csharp\slncapas\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\Alumno\Documents\csharp\slncapas\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\Alumno\Documents\csharp\slncapas\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Documents\csharp\slncapas\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Alumno\Documents\csharp\slncapas\CapaDatos\obj\Debug\CapaDatos.pdb

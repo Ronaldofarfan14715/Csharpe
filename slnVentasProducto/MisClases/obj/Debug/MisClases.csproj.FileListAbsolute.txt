@@ -1,0 +1,6 @@
+D:\LENG-SEM3\slnVentasProducto\MisClases\bin\Debug\MisClases.dll
+D:\LENG-SEM3\slnVentasProducto\MisClases\bin\Debug\MisClases.pdb
+D:\LENG-SEM3\slnVentasProducto\MisClases\obj\Debug\MisClases.csprojResolveAssemblyReference.cache
+D:\LENG-SEM3\slnVentasProducto\MisClases\obj\Debug\MisClases.csproj.CoreCompileInputs.cache
+D:\LENG-SEM3\slnVentasProducto\MisClases\obj\Debug\MisClases.dll
+D:\LENG-SEM3\slnVentasProducto\MisClases\obj\Debug\MisClases.pdb
